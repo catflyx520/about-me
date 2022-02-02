@@ -7,9 +7,9 @@
  
 <strong>Connect with me!</strong>
 <div style="display:relative;">
- <a href="https://www.instagram.com/kay12_wu/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" /> </a>
+ <a href="https://www.instagram.com/kay12_wu/" target="_blank" rel="noreferrer noopener"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" /> </a>
  &nbsp;
- <a href="https://www.linkedin.com/in/zhongyu-wu-59baa4202/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
+ <a href="https://www.linkedin.com/in/zhongyu-wu-59baa4202/" target="_blank" rel="noreferrer noopener"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
  </div>
  <br><br>
 <strong >My Skillset:</strong>
